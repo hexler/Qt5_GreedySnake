@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.png</file>
+        <file>cf.jpg</file>
+        <file>sound/1.wav</file>
+        <file>sound/bong.wav</file>
+        <file>sound/click.wav</file>
+        <file>sound/critical.wav</file>
+        <file>sound/fail.wav</file>
+        <file>sound/question.wav</file>
+        <file>sound/start.wav</file>
+        <file>sound/start1.wav</file>
+        <file>sound/start2.wav</file>
+        <file>sound/time.wav</file>
+        <file>sound/victory.wav</file>
+        <file>sound/win.wav</file>
+        <file>sound/youfail.wav</file>
+    </qresource>
+</RCC>
